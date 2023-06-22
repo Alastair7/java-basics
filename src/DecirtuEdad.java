@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DecirtuNombre{
+public class DecirtuEdad{
     public static void main (String []args) throws Exception {
         Scanner Age = new Scanner(System.in);
         System.out.print("Tell me your age: ");
